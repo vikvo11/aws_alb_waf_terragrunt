@@ -1,0 +1,8 @@
+foo.{host}/static
+bar.{host}/webhooks/facebook/webhook
+{host}/static/
+{host}/static/123
+
+{host}/webhooks/facebook/webhook
+{host}/webhooks/facebook/webhook/foo
+{host}/webhooks/facebook/webhook

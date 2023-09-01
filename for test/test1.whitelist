@@ -1,0 +1,7 @@
+
+whitelist     = [
+    { host_regex = "^(foo\\.|bar\\.)?.*", path_regex = "\\/static\\/.*"},
+    { host_regex = "^(foo\\.|bar\\.)?.*", path_regex = "\\/webhook$" },
+    { host_regex = "^(foo\\.)?.*", path_regex = "\\/webhooks\\/viber$" },
+    { host_regex = "^(bar\\.)?.*", path_regex = "\\/webhooks\\/facebook\\/webhook$"}
+  ]
